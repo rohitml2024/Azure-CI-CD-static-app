@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Gen AI app CR#0002</h1>
+    <h1>Gen AI app CR#0003 Implementation of Manual approval stage</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
@@ -35,3 +35,6 @@ export default {
   margin-top: 60px;
 }
 </style>
+
+
+
